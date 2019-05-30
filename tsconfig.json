@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "outDir": "./",
+      "watch": false
+    },
+"files": [
+    "./typescript/sum.ts",
+]
+}
