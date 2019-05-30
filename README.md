@@ -1,4 +1,4 @@
 # Homework-11
-# npm install.h6
-# npm run ts
-# npm test
+1. npm install
+2. npm run ts
+3. npm test
