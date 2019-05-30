@@ -1,4 +1,4 @@
 # Homework-11
-npm install
-npm run ts
-npm test
+# npm install
+# npm run ts
+# npm test
