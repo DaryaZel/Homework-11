@@ -1,10 +1,11 @@
 function sum(a:number) {
+    let count:number =a;
     return function f(b:number) {
         if (b === undefined) {
-            return a;
+           return count;
         }
         else {
-            a += b;
+            count += b;
             return f;
         }
     };
